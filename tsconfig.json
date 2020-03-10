@@ -17,6 +17,7 @@
     ]
   },
   "include": [
-    "./lib/src/**/*"
+    "./lib/src/**/*",
+    "./lib/dist/**/*"
   ]
 }
